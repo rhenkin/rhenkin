@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm a Postdoctoral Researcher and Data Engineer at the [Centre for Translational Bioinformatics](https://www.qmul.ac.uk/c4tb/) at Queen Mary University of London. My background is in data visualisation and I'm interested in making visualisations more useful in data analysis workflows, beyond communication for publishing results. I developed two R Shiny packages as an example of that: [visxhclust: an app for visual exploration of hierarchical clustering](http://github.com/rhenkin/visxhclust) and [shinyExprPortal: a configurable portal for sharing analysis of molecular expression data](http://github.com/C4TB/shinyExprPortal). I also created a [Shiny UI component](http://github.com/rhenkin/vfinputs) which enables filtering data through interactive colour legends. I use R, Python or JavaScript depending on the project I'm working on and what is easier for collaborators.
+I'm a Postdoctoral Researcher and Data Engineer at Queen Mary University of London. My background is in data visualisation and I'm interested in making visualisations more useful throughout complete data analysis workflows and not only for communication. I work with Python, R or Javascript depending on what project I'm working on and which language makes it easier to collaborate with other people. I created the following packages:
+
+- (R) [shinyExprPortal: a configurable portal for sharing analysis of molecular expression data](http://github.com/C4TB/shinyExprPortal)
+- (R) [visxhclust: an app for visual exploration of hierarchical clustering](http://github.com/rhenkin/visxhclust)
+- (R) [Interactive legends - Shiny UI component](http://github.com/rhenkin/vfinputs)
+
+Reach me by <a href="mailto:%72%2e%68%65%6e%6b%69%6e%40%71%6d%75%6c%2e%61%63%2e%75%6b">email</a>
 
 <!--
 **rhenkin/rhenkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
