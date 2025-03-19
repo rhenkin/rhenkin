@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-I'm a Postdoctoral Researcher and Data Engineer at Queen Mary University of London. My background is in data visualisation and I'm interested in making visualisations more useful throughout complete data analysis workflows and not only for communication. I work with Python, R or Javascript depending on what project I'm working on and which language makes it easier to collaborate with other people. I created the following packages:
+I'm a Postdoctoral Researcher and Data Engineer at Queen Mary University of London. I'm an expert in interactive data visualisation and EHR datasets such as CPRD. I work with Python, R or Javascript depending on the situation (e.g. project requirements or collaborators' expertise). I created the following packages:
 
 - (R) [shinyExprPortal: a configurable portal for sharing analysis of molecular expression data](http://github.com/C4TB/shinyExprPortal)
 - (R) [visxhclust: an app for visual exploration of hierarchical clustering](http://github.com/rhenkin/visxhclust)
 - (R) [Interactive legends - Shiny UI component](http://github.com/rhenkin/vfinputs)
+
+I'm a researcher in the [AI MULTIPLY](https://ai-multiply.co.uk/) consortium where I have been working on CPRD GOLD and CPRD Aurum datasets. As part of that, I authored or co-authored the following pipelines and packages:
+
+- (Python) [bursty_dynamics](https://github.com/ai-multiply/bursty_dynamics): a Python package to perform burstiness analysis on event data, including functions to calculate scores, compute trains and visualise results
+- (Python + shell scripts) [CPRD Data Pipeline Generator](https://github.com/ai-multiply/CPRD-DataPipelineGenerator): an HPC job generator to process raw CPRD data and prepare an SQLite database for analysis-ready data, including codelist annotations and other steps.
 
 Reach me by <a href="mailto:%72%2e%68%65%6e%6b%69%6e%40%71%6d%75%6c%2e%61%63%2e%75%6b">email</a>
 
