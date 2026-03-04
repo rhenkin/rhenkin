@@ -7,9 +7,7 @@ I'm a researcher at Queen Mary University of London, specialised in electronic h
 - (R) [Interactive legends - Shiny UI component](http://github.com/rhenkin/vfinputs)
 - (Python) [bursty_dynamics](https://github.com/ai-multiply/bursty_dynamics): a Python package to perform burstiness analysis on event data, including functions to calculate scores, compute trains and visualise results
 - (Python + shell scripts) [CPRD Data Pipeline Generator](https://github.com/ai-multiply/CPRD-DataPipelineGenerator): an HPC job generator to process raw CPRD data and prepare an SQLite database for analysis-ready data, including codelist annotations and other steps.
-
-Reach me by <a href="mailto:%72%2e%68%65%6e%6b%69%6e%40%71%6d%75%6c%2e%61%63%2e%75%6b">email</a>
-
+- 
 <!--
 **rhenkin/rhenkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
